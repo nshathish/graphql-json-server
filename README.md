@@ -1,2 +1,2 @@
-# graphql-react-lab1
+# graphql-json-server
 based on Stephen Grider Udemy Course
